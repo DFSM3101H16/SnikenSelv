@@ -2,3 +2,15 @@
 
 Hei, hallo, hade.
 Her kommer det mere text, dette skal ikke stå i dokumentet i master branchen.
+
+Kan man erstatte biter av fysikkmotoren i unity3d med egen fysikk / ligninger / metoder / funksjoner?
+
+Kan dere putte inn egne ligninger for bevegelse av et objekt inn i et spill? Scripte bevegelse, med egenkomponert kode som bestemmer bevegelsen.
+
+Kan dere gi som input, ei fil med koordinater som beskriver en bevegelse, og så la unity bevege en gjenstand langs disse koordinatene?
+
+Kan dere bruke unity i dette kurset, eller er den helt satt med den eksisterende ferdige spillmotoren?
+
+Hvilke andre alternativer er det til programmer/språk til å bruke i dette kurset?
+
+Hva mener dere er det beste verktøyet å bruke i dette kurset?
