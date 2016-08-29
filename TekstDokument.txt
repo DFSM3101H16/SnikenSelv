@@ -1,1 +1,3 @@
 Hei, dette er et simpelt tekstdokuemnt jeg skrev for å teste litt funksjoner i Git.
+Hei det er Konrad her :D
+
