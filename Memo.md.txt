@@ -1,8 +1,5 @@
 ######Overskrift
 
-Hei, hallo, hade.
-Her kommer det mere text, dette skal ikke stå i dokumentet i master branchen.
-
 Kan man erstatte biter av fysikkmotoren i unity3d med egen fysikk / ligninger / metoder / funksjoner?
 
 Kan dere putte inn egne ligninger for bevegelse av et objekt inn i et spill? Scripte bevegelse, med egenkomponert kode som bestemmer bevegelsen.
