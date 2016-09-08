@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{72B9CBB8-2F00-0911-C6FB-34090F4F11BE}") = "PhysicsTestOne", "Assembly-CSharp.csproj", "{D4EACA30-922B-EAEF-A8E1-637ADCA349DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4EACA30-922B-EAEF-A8E1-637ADCA349DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4EACA30-922B-EAEF-A8E1-637ADCA349DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4EACA30-922B-EAEF-A8E1-637ADCA349DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4EACA30-922B-EAEF-A8E1-637ADCA349DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
