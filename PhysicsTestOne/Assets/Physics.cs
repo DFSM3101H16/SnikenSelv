@@ -23,6 +23,7 @@ public class Physics : MonoBehaviour {
 		
 	void SetPosition()
 	{
+        // s = v0t + 0,5mg^2
 		transform.position += (velocity*Time.deltaTime) + (0.5f * gravity * (Time.deltaTime * Time.deltaTime));
 	}
 
